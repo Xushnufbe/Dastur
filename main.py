@@ -1,6 +1,6 @@
 import wikipedia
 import requests
-wikipedia.set_lang("Uz")
+    wikipedia.set_lang("Uz")
 print("Xush kelibsiz")
 print("bo'limlardan birini tanlang")
 print("Ogohlantirish Sms bomber faqat beeline uchun")
